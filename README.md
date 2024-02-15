@@ -41,11 +41,11 @@ Three different loading conditions are considered in order to investigate loadin
 Material properties related to Walker and Forman models for fatigue life estimation are presented in Figure 4 and 5.
 
 <p align="center">
-  <img src="images/Fig_4.png" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_4.PNG" alt="Image Alt Text" width = 500>
 </p>
 
 <p align="center">
-  <img src="images/Fig_5.png" alt="Image Alt Text" width = 500>
+  <img src="images/Fig_5.PNG" alt="Image Alt Text" width = 500>
 </p>
 
 
