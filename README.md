@@ -1,0 +1,1 @@
+# Fatigue-Life-Estimation__LEFM-method
